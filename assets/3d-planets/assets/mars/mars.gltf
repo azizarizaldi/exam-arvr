@@ -91,7 +91,7 @@
   "buffers": [
     {
       "byteLength": 113280,
-      "uri": "scene.bin"
+      "uri": "mars.bin"
     }
   ],
   "extensionsRequired": [
@@ -102,10 +102,10 @@
   ],
   "images": [
     {
-      "uri": "textures/mercurius_diffuse.png"
+      "uri": "mercurius_diffuse.png"
     },
     {
-      "uri": "textures/mercurius_specularGlossiness.png"
+      "uri": "mercurius_specularGlossiness.png"
     }
   ],
   "materials": [

@@ -263,13 +263,13 @@
   ],
   "images": [
     {
-      "uri": "textures/material_baseColor.jpeg"
+      "uri": "material_baseColor.jpeg"
     },
     {
-      "uri": "textures/material_1_baseColor.png"
+      "uri": "material_1_baseColor.png"
     },
     {
-      "uri": "textures/material_1_transmission.png"
+      "uri": "material_1_transmission.png"
     }
   ],
   "materials": [
